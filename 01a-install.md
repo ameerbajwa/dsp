@@ -48,13 +48,15 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3 because it is the recommended version and HackerRank uses Python 3 as well. Python 3 and Python 2 are almost the 
+same, they just use some different syntax. But using Python 3 is probably better because everyone always switches to the new version.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> You can type 'python --version' into terminal to see which python version you have installed or type 'python' and see which version
+pops up when the python prompt appears on terminal.
 
  
 
