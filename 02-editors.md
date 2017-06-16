@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> My terminal editor of choice will be nano because I feel it's the easiest to use and I have more comfort around it. 
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I like using spyder because of the fully configured setup, where there's an editor plus the iptyhon shell easily accessible. Typing CTRL + <RETURN> executes the current cell in spyder, which are useful to execute a large file/code segement into smaller units.
 
  
